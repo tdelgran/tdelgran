@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning at 42 school
-- 💬 Learning C
+- 🌱 I'm currently studying at Le Wagon, specializing in data analysis
+- 💬 Learning Python, SQL
  
  ### LANGUAGES AND TOOLS:
 
